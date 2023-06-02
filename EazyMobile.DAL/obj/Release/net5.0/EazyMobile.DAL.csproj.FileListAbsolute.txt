@@ -1,0 +1,13 @@
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\bin\Release\net5.0\EazyMobile.DAL.deps.json
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\bin\Release\net5.0\EazyMobile.DAL.runtimeconfig.json
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\bin\Release\net5.0\EazyMobile.DAL.runtimeconfig.dev.json
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\bin\Release\net5.0\EazyMobile.DAL.dll
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\bin\Release\net5.0\EazyMobile.DAL.pdb
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.csproj.AssemblyReference.cache
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.dll
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\refint\EazyMobile.DAL.dll
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.pdb
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\EazyMobile.DAL.genruntimeconfig.cache
+C:\Users\A\Documents\csharp\eazymobile-auth-api\EazyMobile.DAL\obj\Release\net5.0\ref\EazyMobile.DAL.dll

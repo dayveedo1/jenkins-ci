@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\PublishedAPIs\EazyMobileAPI</_PublishTargetUrl>
+    <History>True|2023-05-11T18:53:30.2446565Z;False|2023-05-11T12:51:47.5471785-06:00;True|2022-08-01T08:37:10.6344210-06:00;True|2022-05-14T17:44:29.1637320-06:00;True|2022-05-13T07:16:30.3135897-06:00;True|2022-05-13T05:26:06.0881656-06:00;True|2022-05-13T02:49:48.0720051-06:00;True|2022-05-12T15:24:37.5704886-06:00;True|2022-05-12T10:06:24.3403065-06:00;True|2022-05-12T03:05:38.4169431-06:00;False|2022-05-12T02:57:18.5260773-06:00;True|2022-05-07T10:56:29.7161685-06:00;True|2022-04-29T15:49:34.8618567-06:00;True|2022-04-29T12:03:53.8850256-06:00;True|2022-04-28T00:58:58.2350071-06:00;True|2022-04-15T07:53:14.6296094-06:00;True|2022-04-07T05:35:13.6509822-06:00;False|2022-04-07T05:32:16.3206638-06:00;True|2022-04-07T05:18:22.9455044-06:00;True|2022-04-07T05:17:10.3691420-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="EazyMobileAPI">
+      <Value>Server=63.250.52.14, 1343%3bDatabase=EazyMobile%3bTrusted_Connection=false%3bMultipleActiveResultSets=true%3bUser ID=SA%3bPassword=datalinks%40123%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="EazyMobile.DAL.Data.Models.EazyMobileContext">
+      <Value>Server=LAPTOP-O402MJ4C\\SQLEXPRESS%3bDatabase=EazyMobile%3bTrusted_Connection=false%3bMultipleActiveResultSets=true%3bUser ID=sa%3bPassword=Amademeka1%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
